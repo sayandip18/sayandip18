@@ -7,8 +7,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayandip18&langs_count=8&theme=dark)](https://github.com/sayandip18/sayandip18)
 
 
-<!--START_SECTION:waka--!>
-<!--END_SECTION:waka--!>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **sayandip18/sayandip18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
