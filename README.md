@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, world! 👋
+
+### I am Sayandip Halder 👨‍💼✍💻
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sayandip18sayandip18&left_color=black&right_color=blue)
 
