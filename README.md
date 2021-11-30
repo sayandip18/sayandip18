@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sayandip18sayandip18&left_color=black&right_color=blue)
 <!--
 **sayandip18/sayandip18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
