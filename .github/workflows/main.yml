@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: sayandip18/sayandip18@master
         with:
-          WAKATIME_API_KEY: ac74c5bd-8ee9-4062-a25e-5e546eb6e964
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
