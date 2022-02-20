@@ -11,8 +11,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 11 hrs 57 mins
-
 JavaScript   7 hrs 4 mins    ██████████████▓░░░░░░░░░░   59.13 % 
 CSS          3 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   31.16 % 
 Python       1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
